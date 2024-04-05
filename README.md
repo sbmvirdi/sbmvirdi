@@ -8,7 +8,6 @@ I have been coding since my high school. I have worked on technologies like Spri
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [shubhamvirdic3#gmail.com \[# -> @\]](mailto:shubhamvirdic3#gmail.com [# -> @])
-* 🚀  I'm currently working on [Trackeria Application](https://trackeria.com)
 * 🧠  I'm learning Docker, Kubernetes and AWS
 * ⚡  Sometimes my code runs in a single compile
 
